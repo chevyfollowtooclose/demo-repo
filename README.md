@@ -14,4 +14,3 @@ This is a hotfix in between the feature branch and the original main branch.
 
 1. Open index.html in your browser.
 2. This is a second modification to the feature-readme-instructions branch.
-3. Modified readme again
